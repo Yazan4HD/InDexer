@@ -45,7 +45,7 @@ Python 3
 Installation
 Clone the repository
 
-git clone [https://github.com/your_username/in-dexer.git](https://github.com/your_username/in-dexer.git)
+git clone [https://github.com/Yazan4HD/in-dexer.git](https://github.com/Yazan4HD/in-dexer.git)
 
 Navigate to the project directory
 
