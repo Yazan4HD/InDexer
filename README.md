@@ -45,7 +45,7 @@ Python 3
 Installation
 Clone the repository
 
-git clone [https://github.com/Yazan4HD/in-dexer.git](https://github.com/Yazan4HD/in-dexer.git)
+git clone ([https://github.com/Yazan4HD/in-dexer.git](https://github.com/Yazan4HD/InDexer))
 
 Navigate to the project directory
 
@@ -83,4 +83,4 @@ Distributed under the MIT License. See LICENSE for more information.
 Contact
 Yazan Shaban - dublajat@gmail.com
 
-Project Link: https://github.com/Yazan4HD/in-dexer
+Project Link: [https://github.com/Yazan4HD/in-dexer](https://github.com/Yazan4HD/InDexer)
