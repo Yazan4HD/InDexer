@@ -73,7 +73,7 @@ Create an icon.ico file and place it in the root project directory.
 
 Run the Build Command
 
-pyinstaller --name "In Dexer" --onefile --windowed --icon="icon.ico" main.py
+pyinstaller --name "In Dexer" --onefile --windowed --icon="icon.ico" app.py
 
 The final In Dexer.exe will be located in the dist folder.
 
